@@ -1,2 +1,2 @@
 require('coffee-script/register');
-require('.ftp-service')
+require('./ftp-service')
