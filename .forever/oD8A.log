@@ -1,0 +1,1437 @@
+error: Could not read .foreverignore file.
+error: ENOENT, open '/mnt/hgfs/dev/ftp/.foreverignore'
+FTPD listening on port 21
+Express listening on port 80
+error: restarting script because /mnt/hgfs/dev/ftp/.forever/oD8A.log changed
+error: Forever detected script exited with code: null
+error: Script restart attempt #1
+FTPD listening on port 21
+Express listening on port 80
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: listen EADDRINUSE
+  at errnoException (net.js:905:11)
+  at Server._listen2 (net.js:1043:14)
+  at listen (net.js:1065:10)
+  at Server.listen (net.js:1139:5)
+  at FtpServer.(anonymous function) [as listen] (/mnt/hgfs/dev/ftp/node_modules/ftpd/lib/ftpd.js:171:31)
+  at Object.<anonymous> (/mnt/hgfs/dev/ftp/ftp-service.coffee:61:8)
+  at Object.<anonymous> (/mnt/hgfs/dev/ftp/ftp-service.coffee:1:1)
+  at Module._compile (module.js:456:26)
+
+error: Forever detected script exited with code: 8
+error: restarting script because /mnt/hgfs/dev/ftp/.forever/oD8A.log changed
+error: Script restart attempt #0
+FTPD listening on port 21
+Express listening on port 80
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: listen EADDRINUSE
+  at errnoException (net.js:905:11)
+  at Server._listen2 (net.js:1043:14)
+  at listen (net.js:1065:10)
+  at Server.listen (net.js:1139:5)
+  at FtpServer.(anonymous function) [as listen] (/mnt/hgfs/dev/ftp/node_modules/ftpd/lib/ftpd.js:171:31)
+  at Object.<anonymous> (/mnt/hgfs/dev/ftp/ftp-service.coffee:61:8)
+  at Object.<anonymous> (/mnt/hgfs/dev/ftp/ftp-service.coffee:1:1)
+  at Module._compile (module.js:456:26)
+
+error: Forever detected script exited with code: 8
+error: Script restart attempt #1
+FTPD listening on port 21
+Express listening on port 80
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: listen EADDRINUSE
+  at errnoException (net.js:905:11)
+  at Server._listen2 (net.js:1043:14)
+  at listen (net.js:1065:10)
+  at Server.listen (net.js:1139:5)
+  at FtpServer.(anonymous function) [as listen] (/mnt/hgfs/dev/ftp/node_modules/ftpd/lib/ftpd.js:171:31)
+  at Object.<anonymous> (/mnt/hgfs/dev/ftp/ftp-service.coffee:61:8)
+  at Object.<anonymous> (/mnt/hgfs/dev/ftp/ftp-service.coffee:1:1)
+  at Module._compile (module.js:456:26)
+
+error: Forever detected script exited with code: 8
+error: restarting script because /mnt/hgfs/dev/ftp/.forever/oD8A.log changed
+error: Script restart attempt #0
+FTPD listening on port 21
+Express listening on port 80
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: listen EADDRINUSE
+  at errnoException (net.js:905:11)
+  at Server._listen2 (net.js:1043:14)
+  at listen (net.js:1065:10)
+  at Server.listen (net.js:1139:5)
+  at FtpServer.(anonymous function) [as listen] (/mnt/hgfs/dev/ftp/node_modules/ftpd/lib/ftpd.js:171:31)
+  at Object.<anonymous> (/mnt/hgfs/dev/ftp/ftp-service.coffee:61:8)
+  at Object.<anonymous> (/mnt/hgfs/dev/ftp/ftp-service.coffee:1:1)
+  at Module._compile (module.js:456:26)
+
+error: Forever detected script exited with code: 8
+error: Script restart attempt #1
+FTPD listening on port 21
+Express listening on port 80
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: listen EADDRINUSE
+  at errnoException (net.js:905:11)
+  at Server._listen2 (net.js:1043:14)
+  at listen (net.js:1065:10)
+  at Server.listen (net.js:1139:5)
+  at FtpServer.(anonymous function) [as listen] (/mnt/hgfs/dev/ftp/node_modules/ftpd/lib/ftpd.js:171:31)
+  at Object.<anonymous> (/mnt/hgfs/dev/ftp/ftp-service.coffee:61:8)
+  at Object.<anonymous> (/mnt/hgfs/dev/ftp/ftp-service.coffee:1:1)
+  at Module._compile (module.js:456:26)
+
+error: Forever detected script exited with code: 8
+error: restarting script because /mnt/hgfs/dev/ftp/.forever/oD8A.log changed
+error: Script restart attempt #0
+error: restarting script because /mnt/hgfs/dev/ftp/.git/index.lock changed
+error: Forever detected script exited with code: null
+error: Script restart attempt #1
+error: restarting script because /mnt/hgfs/dev/ftp/.forever/oD8A.log changed
+error: Forever detected script exited with code: null
+error: Script restart attempt #1
+FTPD listening on port 21
+Express listening on port 80
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+error: restarting script because /mnt/hgfs/dev/ftp/.git/index.lock changed
+error: Forever detected script exited with code: null
+error: Script restart attempt #1
+Error: listen EADDRINUSE
+  at errnoException (net.js:905:11)
+  at Server._listen2 (net.js:1043:14)
+  at listen (net.js:1065:10)
+  at Server.listen (net.js:1139:5)
+  at FtpServer.(anonymous function) [as listen] (/mnt/hgfs/dev/ftp/node_modules/ftpd/lib/ftpd.js:171:31)
+  at Object.<anonymous> (/mnt/hgfs/dev/ftp/ftp-service.coffee:61:8)
+  at Object.<anonymous> (/mnt/hgfs/dev/ftp/ftp-service.coffee:1:1)
+  at Module._compile (module.js:456:26)
+
+FTPD listening on port 21
+Express listening on port 80
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: listen EADDRINUSE
+  at errnoException (net.js:905:11)
+  at Server._listen2 (net.js:1043:14)
+  at listen (net.js:1065:10)
+  at Server.listen (net.js:1139:5)
+  at FtpServer.(anonymous function) [as listen] (/mnt/hgfs/dev/ftp/node_modules/ftpd/lib/ftpd.js:171:31)
+  at Object.<anonymous> (/mnt/hgfs/dev/ftp/ftp-service.coffee:61:8)
+  at Object.<anonymous> (/mnt/hgfs/dev/ftp/ftp-service.coffee:1:1)
+  at Module._compile (module.js:456:26)
+
+error: restarting script because /mnt/hgfs/dev/ftp/.forever/oD8A.log changed
+error: Forever detected script exited with code: null
+error: Script restart attempt #1
+FTPD listening on port 21
+Express listening on port 80
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: listen EADDRINUSE
+  at errnoException (net.js:905:11)
+  at Server._listen2 (net.js:1043:14)
+  at listen (net.js:1065:10)
+  at Server.listen (net.js:1139:5)
+  at FtpServer.(anonymous function) [as listen] (/mnt/hgfs/dev/ftp/node_modules/ftpd/lib/ftpd.js:171:31)
+  at Object.<anonymous> (/mnt/hgfs/dev/ftp/ftp-service.coffee:61:8)
+  at Object.<anonymous> (/mnt/hgfs/dev/ftp/ftp-service.coffee:1:1)
+  at Module._compile (module.js:456:26)
+
+FTPD listening on port 21
+Express listening on port 80
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: listen EADDRINUSE
+  at errnoException (net.js:905:11)
+  at Server._listen2 (net.js:1043:14)
+  at listen (net.js:1065:10)
+  at Server.listen (net.js:1139:5)
+  at FtpServer.(anonymous function) [as listen] (/mnt/hgfs/dev/ftp/node_modules/ftpd/lib/ftpd.js:171:31)
+  at Object.<anonymous> (/mnt/hgfs/dev/ftp/ftp-service.coffee:61:8)
+  at Object.<anonymous> (/mnt/hgfs/dev/ftp/ftp-service.coffee:1:1)
+  at Module._compile (module.js:456:26)
+
+FTPD listening on port 21
+Express listening on port 80
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: listen EADDRINUSE
+  at errnoException (net.js:905:11)
+  at Server._listen2 (net.js:1043:14)
+  at listen (net.js:1065:10)
+  at Server.listen (net.js:1139:5)
+  at FtpServer.(anonymous function) [as listen] (/mnt/hgfs/dev/ftp/node_modules/ftpd/lib/ftpd.js:171:31)
+  at Object.<anonymous> (/mnt/hgfs/dev/ftp/ftp-service.coffee:61:8)
+  at Object.<anonymous> (/mnt/hgfs/dev/ftp/ftp-service.coffee:1:1)
+  at Module._compile (module.js:456:26)
+
+error: Forever detected script exited with code: 8
+error: restarting script because /mnt/hgfs/dev/ftp/.forever/oD8A.log changed
+error: Script restart attempt #0
+FTPD listening on port 21
+Express listening on port 80
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: listen EADDRINUSE
+  at errnoException (net.js:905:11)
+  at Server._listen2 (net.js:1043:14)
+  at listen (net.js:1065:10)
+  at Server.listen (net.js:1139:5)
+  at FtpServer.(anonymous function) [as listen] (/mnt/hgfs/dev/ftp/node_modules/ftpd/lib/ftpd.js:171:31)
+  at Object.<anonymous> (/mnt/hgfs/dev/ftp/ftp-service.coffee:61:8)
+  at Object.<anonymous> (/mnt/hgfs/dev/ftp/ftp-service.coffee:1:1)
+  at Module._compile (module.js:456:26)
+
+error: Forever detected script exited with code: 8
+error: Script restart attempt #1
+FTPD listening on port 21
+Express listening on port 80
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: listen EADDRINUSE
+  at errnoException (net.js:905:11)
+  at Server._listen2 (net.js:1043:14)
+  at listen (net.js:1065:10)
+  at Server.listen (net.js:1139:5)
+  at FtpServer.(anonymous function) [as listen] (/mnt/hgfs/dev/ftp/node_modules/ftpd/lib/ftpd.js:171:31)
+  at Object.<anonymous> (/mnt/hgfs/dev/ftp/ftp-service.coffee:61:8)
+  at Object.<anonymous> (/mnt/hgfs/dev/ftp/ftp-service.coffee:1:1)
+  at Module._compile (module.js:456:26)
+
+error: Forever detected script exited with code: 8
+error: restarting script because /mnt/hgfs/dev/ftp/.forever/oD8A.log changed
+error: Script restart attempt #0
+FTPD listening on port 21
+Express listening on port 80
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: listen EADDRINUSE
+  at errnoException (net.js:905:11)
+  at Server._listen2 (net.js:1043:14)
+  at listen (net.js:1065:10)
+  at Server.listen (net.js:1139:5)
+  at FtpServer.(anonymous function) [as listen] (/mnt/hgfs/dev/ftp/node_modules/ftpd/lib/ftpd.js:171:31)
+  at Object.<anonymous> (/mnt/hgfs/dev/ftp/ftp-service.coffee:61:8)
+  at Object.<anonymous> (/mnt/hgfs/dev/ftp/ftp-service.coffee:1:1)
+  at Module._compile (module.js:456:26)
+
+error: Forever detected script exited with code: 8
+error: Script restart attempt #1
+FTPD listening on port 21
+Express listening on port 80
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: listen EADDRINUSE
+  at errnoException (net.js:905:11)
+  at Server._listen2 (net.js:1043:14)
+  at listen (net.js:1065:10)
+  at Server.listen (net.js:1139:5)
+  at FtpServer.(anonymous function) [as listen] (/mnt/hgfs/dev/ftp/node_modules/ftpd/lib/ftpd.js:171:31)
+  at Object.<anonymous> (/mnt/hgfs/dev/ftp/ftp-service.coffee:61:8)
+  at Object.<anonymous> (/mnt/hgfs/dev/ftp/ftp-service.coffee:1:1)
+  at Module._compile (module.js:456:26)
+
+error: Forever detected script exited with code: 8
+error: restarting script because /mnt/hgfs/dev/ftp/.forever/oD8A.log changed
+error: Script restart attempt #0
+FTPD listening on port 21
+Express listening on port 80
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: listen EADDRINUSE
+  at errnoException (net.js:905:11)
+  at Server._listen2 (net.js:1043:14)
+  at listen (net.js:1065:10)
+  at Server.listen (net.js:1139:5)
+  at FtpServer.(anonymous function) [as listen] (/mnt/hgfs/dev/ftp/node_modules/ftpd/lib/ftpd.js:171:31)
+  at Object.<anonymous> (/mnt/hgfs/dev/ftp/ftp-service.coffee:61:8)
+  at Object.<anonymous> (/mnt/hgfs/dev/ftp/ftp-service.coffee:1:1)
+  at Module._compile (module.js:456:26)
+
+error: Forever detected script exited with code: 8
+error: Script restart attempt #1
+FTPD listening on port 21
+Express listening on port 80
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: listen EADDRINUSE
+  at errnoException (net.js:905:11)
+  at Server._listen2 (net.js:1043:14)
+  at listen (net.js:1065:10)
+  at Server.listen (net.js:1139:5)
+  at FtpServer.(anonymous function) [as listen] (/mnt/hgfs/dev/ftp/node_modules/ftpd/lib/ftpd.js:171:31)
+  at Object.<anonymous> (/mnt/hgfs/dev/ftp/ftp-service.coffee:61:8)
+  at Object.<anonymous> (/mnt/hgfs/dev/ftp/ftp-service.coffee:1:1)
+  at Module._compile (module.js:456:26)
+
+error: Forever detected script exited with code: 8
+error: restarting script because /mnt/hgfs/dev/ftp/.forever/oD8A.log changed
+error: Script restart attempt #0
+FTPD listening on port 21
+Express listening on port 80
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: listen EADDRINUSE
+  at errnoException (net.js:905:11)
+  at Server._listen2 (net.js:1043:14)
+  at listen (net.js:1065:10)
+  at Server.listen (net.js:1139:5)
+  at FtpServer.(anonymous function) [as listen] (/mnt/hgfs/dev/ftp/node_modules/ftpd/lib/ftpd.js:171:31)
+  at Object.<anonymous> (/mnt/hgfs/dev/ftp/ftp-service.coffee:61:8)
+  at Object.<anonymous> (/mnt/hgfs/dev/ftp/ftp-service.coffee:1:1)
+  at Module._compile (module.js:456:26)
+
+error: Forever detected script exited with code: 8
+error: Script restart attempt #1
+FTPD listening on port 21
+Express listening on port 80
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: listen EADDRINUSE
+  at errnoException (net.js:905:11)
+  at Server._listen2 (net.js:1043:14)
+  at listen (net.js:1065:10)
+  at Server.listen (net.js:1139:5)
+  at FtpServer.(anonymous function) [as listen] (/mnt/hgfs/dev/ftp/node_modules/ftpd/lib/ftpd.js:171:31)
+  at Object.<anonymous> (/mnt/hgfs/dev/ftp/ftp-service.coffee:61:8)
+  at Object.<anonymous> (/mnt/hgfs/dev/ftp/ftp-service.coffee:1:1)
+  at Module._compile (module.js:456:26)
+
+error: Forever detected script exited with code: 8
+error: restarting script because /mnt/hgfs/dev/ftp/.forever/oD8A.log changed
+error: Script restart attempt #0
+FTPD listening on port 21
+Express listening on port 80
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: listen EADDRINUSE
+  at errnoException (net.js:905:11)
+  at Server._listen2 (net.js:1043:14)
+  at listen (net.js:1065:10)
+  at Server.listen (net.js:1139:5)
+  at FtpServer.(anonymous function) [as listen] (/mnt/hgfs/dev/ftp/node_modules/ftpd/lib/ftpd.js:171:31)
+  at Object.<anonymous> (/mnt/hgfs/dev/ftp/ftp-service.coffee:61:8)
+  at Object.<anonymous> (/mnt/hgfs/dev/ftp/ftp-service.coffee:1:1)
+  at Module._compile (module.js:456:26)
+
+error: Forever detected script exited with code: 8
+error: Script restart attempt #1
+FTPD listening on port 21
+Express listening on port 80
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: listen EADDRINUSE
+  at errnoException (net.js:905:11)
+  at Server._listen2 (net.js:1043:14)
+  at listen (net.js:1065:10)
+  at Server.listen (net.js:1139:5)
+  at FtpServer.(anonymous function) [as listen] (/mnt/hgfs/dev/ftp/node_modules/ftpd/lib/ftpd.js:171:31)
+  at Object.<anonymous> (/mnt/hgfs/dev/ftp/ftp-service.coffee:61:8)
+  at Object.<anonymous> (/mnt/hgfs/dev/ftp/ftp-service.coffee:1:1)
+  at Module._compile (module.js:456:26)
+
+error: Forever detected script exited with code: 8
+error: restarting script because /mnt/hgfs/dev/ftp/.forever/oD8A.log changed
+error: Script restart attempt #0
+FTPD listening on port 21
+Express listening on port 80
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: listen EADDRINUSE
+  at errnoException (net.js:905:11)
+  at Server._listen2 (net.js:1043:14)
+  at listen (net.js:1065:10)
+  at Server.listen (net.js:1139:5)
+  at FtpServer.(anonymous function) [as listen] (/mnt/hgfs/dev/ftp/node_modules/ftpd/lib/ftpd.js:171:31)
+  at Object.<anonymous> (/mnt/hgfs/dev/ftp/ftp-service.coffee:61:8)
+  at Object.<anonymous> (/mnt/hgfs/dev/ftp/ftp-service.coffee:1:1)
+  at Module._compile (module.js:456:26)
+
+error: Forever detected script exited with code: 8
+error: Script restart attempt #1
+FTPD listening on port 21
+Express listening on port 80
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: listen EADDRINUSE
+  at errnoException (net.js:905:11)
+  at Server._listen2 (net.js:1043:14)
+  at listen (net.js:1065:10)
+  at Server.listen (net.js:1139:5)
+  at FtpServer.(anonymous function) [as listen] (/mnt/hgfs/dev/ftp/node_modules/ftpd/lib/ftpd.js:171:31)
+  at Object.<anonymous> (/mnt/hgfs/dev/ftp/ftp-service.coffee:61:8)
+  at Object.<anonymous> (/mnt/hgfs/dev/ftp/ftp-service.coffee:1:1)
+  at Module._compile (module.js:456:26)
+
+error: Forever detected script exited with code: 8
+error: restarting script because /mnt/hgfs/dev/ftp/.forever/oD8A.log changed
+error: Script restart attempt #0
+FTPD listening on port 21
+Express listening on port 80
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: listen EADDRINUSE
+  at errnoException (net.js:905:11)
+  at Server._listen2 (net.js:1043:14)
+  at listen (net.js:1065:10)
+  at Server.listen (net.js:1139:5)
+  at FtpServer.(anonymous function) [as listen] (/mnt/hgfs/dev/ftp/node_modules/ftpd/lib/ftpd.js:171:31)
+  at Object.<anonymous> (/mnt/hgfs/dev/ftp/ftp-service.coffee:61:8)
+  at Object.<anonymous> (/mnt/hgfs/dev/ftp/ftp-service.coffee:1:1)
+  at Module._compile (module.js:456:26)
+
+error: Forever detected script exited with code: 8
+error: Script restart attempt #1
+FTPD listening on port 21
+Express listening on port 80
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: listen EADDRINUSE
+  at errnoException (net.js:905:11)
+  at Server._listen2 (net.js:1043:14)
+  at listen (net.js:1065:10)
+  at Server.listen (net.js:1139:5)
+  at FtpServer.(anonymous function) [as listen] (/mnt/hgfs/dev/ftp/node_modules/ftpd/lib/ftpd.js:171:31)
+  at Object.<anonymous> (/mnt/hgfs/dev/ftp/ftp-service.coffee:61:8)
+  at Object.<anonymous> (/mnt/hgfs/dev/ftp/ftp-service.coffee:1:1)
+  at Module._compile (module.js:456:26)
+
+error: Forever detected script exited with code: 8
+error: restarting script because /mnt/hgfs/dev/ftp/.forever/oD8A.log changed
+error: Script restart attempt #0
+FTPD listening on port 21
+Express listening on port 80
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: listen EADDRINUSE
+  at errnoException (net.js:905:11)
+  at Server._listen2 (net.js:1043:14)
+  at listen (net.js:1065:10)
+  at Server.listen (net.js:1139:5)
+  at FtpServer.(anonymous function) [as listen] (/mnt/hgfs/dev/ftp/node_modules/ftpd/lib/ftpd.js:171:31)
+  at Object.<anonymous> (/mnt/hgfs/dev/ftp/ftp-service.coffee:61:8)
+  at Object.<anonymous> (/mnt/hgfs/dev/ftp/ftp-service.coffee:1:1)
+  at Module._compile (module.js:456:26)
+
+error: Forever detected script exited with code: 8
+error: Script restart attempt #1
+FTPD listening on port 21
+Express listening on port 80
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: listen EADDRINUSE
+  at errnoException (net.js:905:11)
+  at Server._listen2 (net.js:1043:14)
+  at listen (net.js:1065:10)
+  at Server.listen (net.js:1139:5)
+  at FtpServer.(anonymous function) [as listen] (/mnt/hgfs/dev/ftp/node_modules/ftpd/lib/ftpd.js:171:31)
+  at Object.<anonymous> (/mnt/hgfs/dev/ftp/ftp-service.coffee:61:8)
+  at Object.<anonymous> (/mnt/hgfs/dev/ftp/ftp-service.coffee:1:1)
+  at Module._compile (module.js:456:26)
+
+error: Forever detected script exited with code: 8
+error: restarting script because /mnt/hgfs/dev/ftp/.forever/oD8A.log changed
+error: Script restart attempt #0
+FTPD listening on port 21
+Express listening on port 80
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: listen EADDRINUSE
+  at errnoException (net.js:905:11)
+  at Server._listen2 (net.js:1043:14)
+  at listen (net.js:1065:10)
+  at Server.listen (net.js:1139:5)
+  at FtpServer.(anonymous function) [as listen] (/mnt/hgfs/dev/ftp/node_modules/ftpd/lib/ftpd.js:171:31)
+  at Object.<anonymous> (/mnt/hgfs/dev/ftp/ftp-service.coffee:61:8)
+  at Object.<anonymous> (/mnt/hgfs/dev/ftp/ftp-service.coffee:1:1)
+  at Module._compile (module.js:456:26)
+
+error: Forever detected script exited with code: 8
+error: Script restart attempt #1
+error: restarting script because /mnt/hgfs/dev/ftp/.forever/oD8A.log changed
+error: Forever detected script exited with code: null
+error: Script restart attempt #1
+FTPD listening on port 21
+Express listening on port 80
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: listen EADDRINUSE
+  at errnoException (net.js:905:11)
+  at Server._listen2 (net.js:1043:14)
+  at listen (net.js:1065:10)
+  at Server.listen (net.js:1139:5)
+  at FtpServer.(anonymous function) [as listen] (/mnt/hgfs/dev/ftp/node_modules/ftpd/lib/ftpd.js:171:31)
+  at Object.<anonymous> (/mnt/hgfs/dev/ftp/ftp-service.coffee:61:8)
+  at Object.<anonymous> (/mnt/hgfs/dev/ftp/ftp-service.coffee:1:1)
+  at Module._compile (module.js:456:26)
+
+error: restarting script because /mnt/hgfs/dev/ftp/.forever/oD8A.log changed
+error: Forever detected script exited with code: null
+error: Script restart attempt #1
+FTPD listening on port 21
+Express listening on port 80
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: listen EADDRINUSE
+  at errnoException (net.js:905:11)
+  at Server._listen2 (net.js:1043:14)
+  at listen (net.js:1065:10)
+  at Server.listen (net.js:1139:5)
+  at FtpServer.(anonymous function) [as listen] (/mnt/hgfs/dev/ftp/node_modules/ftpd/lib/ftpd.js:171:31)
+  at Object.<anonymous> (/mnt/hgfs/dev/ftp/ftp-service.coffee:61:8)
+  at Object.<anonymous> (/mnt/hgfs/dev/ftp/ftp-service.coffee:1:1)
+  at Module._compile (module.js:456:26)
+
+FTPD listening on port 21
+Express listening on port 80
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: listen EADDRINUSE
+  at errnoException (net.js:905:11)
+  at Server._listen2 (net.js:1043:14)
+  at listen (net.js:1065:10)
+  at Server.listen (net.js:1139:5)
+  at FtpServer.(anonymous function) [as listen] (/mnt/hgfs/dev/ftp/node_modules/ftpd/lib/ftpd.js:171:31)
+  at Object.<anonymous> (/mnt/hgfs/dev/ftp/ftp-service.coffee:61:8)
+  at Object.<anonymous> (/mnt/hgfs/dev/ftp/ftp-service.coffee:1:1)
+  at Module._compile (module.js:456:26)
+
+error: Forever detected script exited with code: 8
+error: restarting script because /mnt/hgfs/dev/ftp/.forever/oD8A.log changed
+error: Script restart attempt #0
+FTPD listening on port 21
+Express listening on port 80
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: listen EADDRINUSE
+  at errnoException (net.js:905:11)
+  at Server._listen2 (net.js:1043:14)
+  at listen (net.js:1065:10)
+  at Server.listen (net.js:1139:5)
+  at FtpServer.(anonymous function) [as listen] (/mnt/hgfs/dev/ftp/node_modules/ftpd/lib/ftpd.js:171:31)
+  at Object.<anonymous> (/mnt/hgfs/dev/ftp/ftp-service.coffee:61:8)
+  at Object.<anonymous> (/mnt/hgfs/dev/ftp/ftp-service.coffee:1:1)
+  at Module._compile (module.js:456:26)
+
+error: Forever detected script exited with code: 8
+error: Script restart attempt #1
+error: restarting script because /mnt/hgfs/dev/ftp/.forever/oD8A.log changed
+error: Forever detected script exited with code: null
+error: Script restart attempt #1
+FTPD listening on port 21
+Express listening on port 80
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: listen EADDRINUSE
+  at errnoException (net.js:905:11)
+  at Server._listen2 (net.js:1043:14)
+  at listen (net.js:1065:10)
+  at Server.listen (net.js:1139:5)
+  at FtpServer.(anonymous function) [as listen] (/mnt/hgfs/dev/ftp/node_modules/ftpd/lib/ftpd.js:171:31)
+  at Object.<anonymous> (/mnt/hgfs/dev/ftp/ftp-service.coffee:61:8)
+  at Object.<anonymous> (/mnt/hgfs/dev/ftp/ftp-service.coffee:1:1)
+  at Module._compile (module.js:456:26)
+
+FTPD listening on port 21
+Express listening on port 80
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: listen EADDRINUSE
+  at errnoException (net.js:905:11)
+  at Server._listen2 (net.js:1043:14)
+  at listen (net.js:1065:10)
+  at Server.listen (net.js:1139:5)
+  at FtpServer.(anonymous function) [as listen] (/mnt/hgfs/dev/ftp/node_modules/ftpd/lib/ftpd.js:171:31)
+  at Object.<anonymous> (/mnt/hgfs/dev/ftp/ftp-service.coffee:61:8)
+  at Object.<anonymous> (/mnt/hgfs/dev/ftp/ftp-service.coffee:1:1)
+  at Module._compile (module.js:456:26)
+
+error: Forever detected script exited with code: 8
+error: restarting script because /mnt/hgfs/dev/ftp/.forever/oD8A.log changed
+error: Script restart attempt #0
+FTPD listening on port 21
+Express listening on port 80
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: listen EADDRINUSE
+  at errnoException (net.js:905:11)
+  at Server._listen2 (net.js:1043:14)
+  at listen (net.js:1065:10)
+  at Server.listen (net.js:1139:5)
+  at FtpServer.(anonymous function) [as listen] (/mnt/hgfs/dev/ftp/node_modules/ftpd/lib/ftpd.js:171:31)
+  at Object.<anonymous> (/mnt/hgfs/dev/ftp/ftp-service.coffee:61:8)
+  at Object.<anonymous> (/mnt/hgfs/dev/ftp/ftp-service.coffee:1:1)
+  at Module._compile (module.js:456:26)
+
+error: Forever detected script exited with code: 8
+error: Script restart attempt #1
+FTPD listening on port 21
+Express listening on port 80
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: listen EADDRINUSE
+  at errnoException (net.js:905:11)
+  at Server._listen2 (net.js:1043:14)
+  at listen (net.js:1065:10)
+  at Server.listen (net.js:1139:5)
+  at FtpServer.(anonymous function) [as listen] (/mnt/hgfs/dev/ftp/node_modules/ftpd/lib/ftpd.js:171:31)
+  at Object.<anonymous> (/mnt/hgfs/dev/ftp/ftp-service.coffee:61:8)
+  at Object.<anonymous> (/mnt/hgfs/dev/ftp/ftp-service.coffee:1:1)
+  at Module._compile (module.js:456:26)
+
+error: Forever detected script exited with code: 8
+error: restarting script because /mnt/hgfs/dev/ftp/.forever/oD8A.log changed
+error: Script restart attempt #0
+FTPD listening on port 21
+Express listening on port 80
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: listen EADDRINUSE
+  at errnoException (net.js:905:11)
+  at Server._listen2 (net.js:1043:14)
+  at listen (net.js:1065:10)
+  at Server.listen (net.js:1139:5)
+  at FtpServer.(anonymous function) [as listen] (/mnt/hgfs/dev/ftp/node_modules/ftpd/lib/ftpd.js:171:31)
+  at Object.<anonymous> (/mnt/hgfs/dev/ftp/ftp-service.coffee:61:8)
+  at Object.<anonymous> (/mnt/hgfs/dev/ftp/ftp-service.coffee:1:1)
+  at Module._compile (module.js:456:26)
+
+error: Forever detected script exited with code: 8
+error: Script restart attempt #1
+FTPD listening on port 21
+Express listening on port 80
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: listen EADDRINUSE
+  at errnoException (net.js:905:11)
+  at Server._listen2 (net.js:1043:14)
+  at listen (net.js:1065:10)
+  at Server.listen (net.js:1139:5)
+  at FtpServer.(anonymous function) [as listen] (/mnt/hgfs/dev/ftp/node_modules/ftpd/lib/ftpd.js:171:31)
+  at Object.<anonymous> (/mnt/hgfs/dev/ftp/ftp-service.coffee:61:8)
+  at Object.<anonymous> (/mnt/hgfs/dev/ftp/ftp-service.coffee:1:1)
+  at Module._compile (module.js:456:26)
+
+error: Forever detected script exited with code: 8
+error: restarting script because /mnt/hgfs/dev/ftp/.forever/oD8A.log changed
+error: Script restart attempt #0
+FTPD listening on port 21
+Express listening on port 80
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: listen EADDRINUSE
+  at errnoException (net.js:905:11)
+  at Server._listen2 (net.js:1043:14)
+  at listen (net.js:1065:10)
+  at Server.listen (net.js:1139:5)
+  at FtpServer.(anonymous function) [as listen] (/mnt/hgfs/dev/ftp/node_modules/ftpd/lib/ftpd.js:171:31)
+  at Object.<anonymous> (/mnt/hgfs/dev/ftp/ftp-service.coffee:61:8)
+  at Object.<anonymous> (/mnt/hgfs/dev/ftp/ftp-service.coffee:1:1)
+  at Module._compile (module.js:456:26)
+
+error: Forever detected script exited with code: 8
+error: Script restart attempt #1
+FTPD listening on port 21
+Express listening on port 80
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: listen EADDRINUSE
+  at errnoException (net.js:905:11)
+  at Server._listen2 (net.js:1043:14)
+  at listen (net.js:1065:10)
+  at Server.listen (net.js:1139:5)
+  at FtpServer.(anonymous function) [as listen] (/mnt/hgfs/dev/ftp/node_modules/ftpd/lib/ftpd.js:171:31)
+  at Object.<anonymous> (/mnt/hgfs/dev/ftp/ftp-service.coffee:61:8)
+  at Object.<anonymous> (/mnt/hgfs/dev/ftp/ftp-service.coffee:1:1)
+  at Module._compile (module.js:456:26)
+
+error: Forever detected script exited with code: 8
+error: restarting script because /mnt/hgfs/dev/ftp/.forever/oD8A.log changed
+error: Script restart attempt #0
+FTPD listening on port 21
+Express listening on port 80
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: listen EADDRINUSE
+  at errnoException (net.js:905:11)
+  at Server._listen2 (net.js:1043:14)
+  at listen (net.js:1065:10)
+  at Server.listen (net.js:1139:5)
+  at FtpServer.(anonymous function) [as listen] (/mnt/hgfs/dev/ftp/node_modules/ftpd/lib/ftpd.js:171:31)
+  at Object.<anonymous> (/mnt/hgfs/dev/ftp/ftp-service.coffee:61:8)
+  at Object.<anonymous> (/mnt/hgfs/dev/ftp/ftp-service.coffee:1:1)
+  at Module._compile (module.js:456:26)
+
+error: Forever detected script exited with code: 8
+error: Script restart attempt #1
+FTPD listening on port 21
+Express listening on port 80
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: listen EADDRINUSE
+  at errnoException (net.js:905:11)
+  at Server._listen2 (net.js:1043:14)
+  at listen (net.js:1065:10)
+  at Server.listen (net.js:1139:5)
+  at FtpServer.(anonymous function) [as listen] (/mnt/hgfs/dev/ftp/node_modules/ftpd/lib/ftpd.js:171:31)
+  at Object.<anonymous> (/mnt/hgfs/dev/ftp/ftp-service.coffee:61:8)
+  at Object.<anonymous> (/mnt/hgfs/dev/ftp/ftp-service.coffee:1:1)
+  at Module._compile (module.js:456:26)
+
+error: Forever detected script exited with code: 8
+error: restarting script because /mnt/hgfs/dev/ftp/.forever/oD8A.log changed
+error: Script restart attempt #0
+FTPD listening on port 21
+Express listening on port 80
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: listen EADDRINUSE
+  at errnoException (net.js:905:11)
+  at Server._listen2 (net.js:1043:14)
+  at listen (net.js:1065:10)
+  at Server.listen (net.js:1139:5)
+  at FtpServer.(anonymous function) [as listen] (/mnt/hgfs/dev/ftp/node_modules/ftpd/lib/ftpd.js:171:31)
+  at Object.<anonymous> (/mnt/hgfs/dev/ftp/ftp-service.coffee:61:8)
+  at Object.<anonymous> (/mnt/hgfs/dev/ftp/ftp-service.coffee:1:1)
+  at Module._compile (module.js:456:26)
+
+error: Forever detected script exited with code: 8
+error: Script restart attempt #1
+FTPD listening on port 21
+Express listening on port 80
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: listen EADDRINUSE
+  at errnoException (net.js:905:11)
+  at Server._listen2 (net.js:1043:14)
+  at listen (net.js:1065:10)
+  at Server.listen (net.js:1139:5)
+  at FtpServer.(anonymous function) [as listen] (/mnt/hgfs/dev/ftp/node_modules/ftpd/lib/ftpd.js:171:31)
+  at Object.<anonymous> (/mnt/hgfs/dev/ftp/ftp-service.coffee:61:8)
+  at Object.<anonymous> (/mnt/hgfs/dev/ftp/ftp-service.coffee:1:1)
+  at Module._compile (module.js:456:26)
+
+error: Forever detected script exited with code: 8
+error: restarting script because /mnt/hgfs/dev/ftp/.forever/oD8A.log changed
+error: Script restart attempt #0
+FTPD listening on port 21
+Express listening on port 80
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: listen EADDRINUSE
+  at errnoException (net.js:905:11)
+  at Server._listen2 (net.js:1043:14)
+  at listen (net.js:1065:10)
+  at Server.listen (net.js:1139:5)
+  at FtpServer.(anonymous function) [as listen] (/mnt/hgfs/dev/ftp/node_modules/ftpd/lib/ftpd.js:171:31)
+  at Object.<anonymous> (/mnt/hgfs/dev/ftp/ftp-service.coffee:61:8)
+  at Object.<anonymous> (/mnt/hgfs/dev/ftp/ftp-service.coffee:1:1)
+  at Module._compile (module.js:456:26)
+
+error: Forever detected script exited with code: 8
+error: Script restart attempt #1
+FTPD listening on port 21
+Express listening on port 80
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: listen EADDRINUSE
+  at errnoException (net.js:905:11)
+  at Server._listen2 (net.js:1043:14)
+  at listen (net.js:1065:10)
+  at Server.listen (net.js:1139:5)
+  at FtpServer.(anonymous function) [as listen] (/mnt/hgfs/dev/ftp/node_modules/ftpd/lib/ftpd.js:171:31)
+  at Object.<anonymous> (/mnt/hgfs/dev/ftp/ftp-service.coffee:61:8)
+  at Object.<anonymous> (/mnt/hgfs/dev/ftp/ftp-service.coffee:1:1)
+  at Module._compile (module.js:456:26)
+
+error: Forever detected script exited with code: 8
+Client connected from 192.168.195.1
+Connection
+FTP command: USER s6464
+FTP command: PASS ***
+mkdir:
+chroot: s6464/2015
+path: s6464/2015
+callback is: undefined
+chroot: s6464/2015
+path: s6464/2015/
+exists:
+s6464/2015/
+error: restarting script because /mnt/hgfs/dev/ftp/.forever/oD8A.log changed
+error: Script restart attempt #0
+s6464/2015 { s3: 
+   { config: 
+      { credentials: [Object],
+        credentialProvider: [Object],
+        region: 'us-east-1',
+        logger: null,
+        apiVersions: {},
+        apiVersion: null,
+        endpoint: 's3.amazonaws.com',
+        httpOptions: [Object],
+        maxRetries: undefined,
+        maxRedirects: 10,
+        paramValidation: true,
+        sslEnabled: true,
+        s3ForcePathStyle: false,
+        s3BucketEndpoint: false,
+        computeChecksums: true,
+        convertResponseTypes: true,
+        dynamoDbCrc32: true,
+        systemClockOffset: 0,
+        signatureVersion: 's3',
+        params: [Object] },
+     isGlobalEndpoint: false,
+     endpoint: 
+      { protocol: 'https:',
+        host: 's3.amazonaws.com',
+        port: 443,
+        hostname: 's3.amazonaws.com',
+        pathname: '/',
+        path: '/',
+        href: 'https://s3.amazonaws.com/' } },
+  chroot: 's6464/2015' }
+FTP command: SYST
+FTP command: FEAT
+FTP command: PWD
+FTP command: CWD /
+stat:
+/
+chroot: s6464/2015
+path: /
+s6464/2015/
+chroot: s6464/2015
+path: s6464/2015/
+FTPD listening on port 21
+Express listening on port 80
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: listen EADDRINUSE
+  at errnoException (net.js:905:11)
+  at Server._listen2 (net.js:1043:14)
+  at listen (net.js:1065:10)
+  at Server.listen (net.js:1139:5)
+  at FtpServer.(anonymous function) [as listen] (/mnt/hgfs/dev/ftp/node_modules/ftpd/lib/ftpd.js:171:31)
+  at Object.<anonymous> (/mnt/hgfs/dev/ftp/ftp-service.coffee:61:8)
+  at Object.<anonymous> (/mnt/hgfs/dev/ftp/ftp-service.coffee:1:1)
+  at Module._compile (module.js:456:26)
+
+error: Forever detected script exited with code: 8
+error: Script restart attempt #1
+FTP command: PWD
+FTP command: TYPE A
+FTP command: PASV
+Setting up listener for passive connections
+Passive data connection beginning to listen
+Passive data connection listening on port 4000
+FTP command: LIST -a
+readdir:
+/
+chroot: s6464/2015
+path: /
+s6464/2015/
+chroot: s6464/2015
+path: s6464/2015/
+exists:
+s6464/2015/
+Passive data event: connect
+FTPD listening on port 21
+Express listening on port 80
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: listen EADDRINUSE
+  at errnoException (net.js:905:11)
+  at Server._listen2 (net.js:1043:14)
+  at listen (net.js:1065:10)
+  at Server.listen (net.js:1139:5)
+  at FtpServer.(anonymous function) [as listen] (/mnt/hgfs/dev/ftp/node_modules/ftpd/lib/ftpd.js:171:31)
+  at Object.<anonymous> (/mnt/hgfs/dev/ftp/ftp-service.coffee:61:8)
+  at Object.<anonymous> (/mnt/hgfs/dev/ftp/ftp-service.coffee:1:1)
+  at Module._compile (module.js:456:26)
+
+error: Forever detected script exited with code: 8
+stat:
+/NM101222.csv
+chroot: s6464/2015
+path: /NM101222.csv
+s6464/2015/NM101222.csv
+chroot: s6464/2015
+path: s6464/2015/NM101222.csv
+error: restarting script because /mnt/hgfs/dev/ftp/.forever/oD8A.log changed
+error: Script restart attempt #0
+chroot: s6464/2015
+path: s6464/2015/NM101222.csv
+{ AcceptRanges: 'bytes',
+  LastModified: 'Fri, 06 Feb 2015 02:26:55 GMT',
+  ContentLength: '87',
+  ETag: '"3e2dff29994bcb90b4d6f32d29b2fe10"',
+  VersionId: 'xyC0KJvn3jCr7j2m6ibosPLLSv3tdP8_',
+  ContentType: 'application/octet-stream',
+  Metadata: {} }
+Directory has 1 files
+A data connection exists
+Sending file list
+Passive data event: end
+Passive data event: close
+FTPD listening on port 21
+Express listening on port 80
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: listen EADDRINUSE
+  at errnoException (net.js:905:11)
+  at Server._listen2 (net.js:1043:14)
+  at listen (net.js:1065:10)
+  at Server.listen (net.js:1139:5)
+  at FtpServer.(anonymous function) [as listen] (/mnt/hgfs/dev/ftp/node_modules/ftpd/lib/ftpd.js:171:31)
+  at Object.<anonymous> (/mnt/hgfs/dev/ftp/ftp-service.coffee:61:8)
+  at Object.<anonymous> (/mnt/hgfs/dev/ftp/ftp-service.coffee:1:1)
+  at Module._compile (module.js:456:26)
+
+error: Forever detected script exited with code: 8
+error: Script restart attempt #1
+FTPD listening on port 21
+Express listening on port 80
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: listen EADDRINUSE
+  at errnoException (net.js:905:11)
+  at Server._listen2 (net.js:1043:14)
+  at listen (net.js:1065:10)
+  at Server.listen (net.js:1139:5)
+  at FtpServer.(anonymous function) [as listen] (/mnt/hgfs/dev/ftp/node_modules/ftpd/lib/ftpd.js:171:31)
+  at Object.<anonymous> (/mnt/hgfs/dev/ftp/ftp-service.coffee:61:8)
+  at Object.<anonymous> (/mnt/hgfs/dev/ftp/ftp-service.coffee:1:1)
+  at Module._compile (module.js:456:26)
+
+error: Forever detected script exited with code: 8
+error: restarting script because /mnt/hgfs/dev/ftp/.forever/oD8A.log changed
+error: Script restart attempt #0
+FTPD listening on port 21
+Express listening on port 80
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: listen EADDRINUSE
+  at errnoException (net.js:905:11)
+  at Server._listen2 (net.js:1043:14)
+  at listen (net.js:1065:10)
+  at Server.listen (net.js:1139:5)
+  at FtpServer.(anonymous function) [as listen] (/mnt/hgfs/dev/ftp/node_modules/ftpd/lib/ftpd.js:171:31)
+  at Object.<anonymous> (/mnt/hgfs/dev/ftp/ftp-service.coffee:61:8)
+  at Object.<anonymous> (/mnt/hgfs/dev/ftp/ftp-service.coffee:1:1)
+  at Module._compile (module.js:456:26)
+
+error: Forever detected script exited with code: 8
+error: Script restart attempt #1
+FTPD listening on port 21
+Express listening on port 80
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: listen EADDRINUSE
+  at errnoException (net.js:905:11)
+  at Server._listen2 (net.js:1043:14)
+  at listen (net.js:1065:10)
+  at Server.listen (net.js:1139:5)
+  at FtpServer.(anonymous function) [as listen] (/mnt/hgfs/dev/ftp/node_modules/ftpd/lib/ftpd.js:171:31)
+  at Object.<anonymous> (/mnt/hgfs/dev/ftp/ftp-service.coffee:61:8)
+  at Object.<anonymous> (/mnt/hgfs/dev/ftp/ftp-service.coffee:1:1)
+  at Module._compile (module.js:456:26)
+
+error: Forever detected script exited with code: 8
+error: restarting script because /mnt/hgfs/dev/ftp/.forever/oD8A.log changed
+error: Script restart attempt #0
+FTPD listening on port 21
+Express listening on port 80
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: listen EADDRINUSE
+  at errnoException (net.js:905:11)
+  at Server._listen2 (net.js:1043:14)
+  at listen (net.js:1065:10)
+  at Server.listen (net.js:1139:5)
+  at FtpServer.(anonymous function) [as listen] (/mnt/hgfs/dev/ftp/node_modules/ftpd/lib/ftpd.js:171:31)
+  at Object.<anonymous> (/mnt/hgfs/dev/ftp/ftp-service.coffee:61:8)
+  at Object.<anonymous> (/mnt/hgfs/dev/ftp/ftp-service.coffee:1:1)
+  at Module._compile (module.js:456:26)
+
+error: Forever detected script exited with code: 8
+error: Script restart attempt #1
+FTPD listening on port 21
+Express listening on port 80
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: listen EADDRINUSE
+  at errnoException (net.js:905:11)
+  at Server._listen2 (net.js:1043:14)
+  at listen (net.js:1065:10)
+  at Server.listen (net.js:1139:5)
+  at FtpServer.(anonymous function) [as listen] (/mnt/hgfs/dev/ftp/node_modules/ftpd/lib/ftpd.js:171:31)
+  at Object.<anonymous> (/mnt/hgfs/dev/ftp/ftp-service.coffee:61:8)
+  at Object.<anonymous> (/mnt/hgfs/dev/ftp/ftp-service.coffee:1:1)
+  at Module._compile (module.js:456:26)
+
+error: Forever detected script exited with code: 8
+error: restarting script because /mnt/hgfs/dev/ftp/.forever/oD8A.log changed
+error: Script restart attempt #0
+FTPD listening on port 21
+Express listening on port 80
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: listen EADDRINUSE
+  at errnoException (net.js:905:11)
+  at Server._listen2 (net.js:1043:14)
+  at listen (net.js:1065:10)
+  at Server.listen (net.js:1139:5)
+  at FtpServer.(anonymous function) [as listen] (/mnt/hgfs/dev/ftp/node_modules/ftpd/lib/ftpd.js:171:31)
+  at Object.<anonymous> (/mnt/hgfs/dev/ftp/ftp-service.coffee:61:8)
+  at Object.<anonymous> (/mnt/hgfs/dev/ftp/ftp-service.coffee:1:1)
+  at Module._compile (module.js:456:26)
+
+error: Forever detected script exited with code: 8
+error: Script restart attempt #1
+FTPD listening on port 21
+Express listening on port 80
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: listen EADDRINUSE
+  at errnoException (net.js:905:11)
+  at Server._listen2 (net.js:1043:14)
+  at listen (net.js:1065:10)
+  at Server.listen (net.js:1139:5)
+  at FtpServer.(anonymous function) [as listen] (/mnt/hgfs/dev/ftp/node_modules/ftpd/lib/ftpd.js:171:31)
+  at Object.<anonymous> (/mnt/hgfs/dev/ftp/ftp-service.coffee:61:8)
+  at Object.<anonymous> (/mnt/hgfs/dev/ftp/ftp-service.coffee:1:1)
+  at Module._compile (module.js:456:26)
+
+error: Forever detected script exited with code: 8
+error: restarting script because /mnt/hgfs/dev/ftp/.forever/oD8A.log changed
+error: Script restart attempt #0
+FTPD listening on port 21
+Express listening on port 80
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: listen EADDRINUSE
+  at errnoException (net.js:905:11)
+  at Server._listen2 (net.js:1043:14)
+  at listen (net.js:1065:10)
+  at Server.listen (net.js:1139:5)
+  at FtpServer.(anonymous function) [as listen] (/mnt/hgfs/dev/ftp/node_modules/ftpd/lib/ftpd.js:171:31)
+  at Object.<anonymous> (/mnt/hgfs/dev/ftp/ftp-service.coffee:61:8)
+  at Object.<anonymous> (/mnt/hgfs/dev/ftp/ftp-service.coffee:1:1)
+  at Module._compile (module.js:456:26)
+
+error: Forever detected script exited with code: 8
+error: Script restart attempt #1
+FTPD listening on port 21
+Express listening on port 80
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: listen EADDRINUSE
+  at errnoException (net.js:905:11)
+  at Server._listen2 (net.js:1043:14)
+  at listen (net.js:1065:10)
+  at Server.listen (net.js:1139:5)
+  at FtpServer.(anonymous function) [as listen] (/mnt/hgfs/dev/ftp/node_modules/ftpd/lib/ftpd.js:171:31)
+  at Object.<anonymous> (/mnt/hgfs/dev/ftp/ftp-service.coffee:61:8)
+  at Object.<anonymous> (/mnt/hgfs/dev/ftp/ftp-service.coffee:1:1)
+  at Module._compile (module.js:456:26)
+
+error: Forever detected script exited with code: 8
+error: restarting script because /mnt/hgfs/dev/ftp/.forever/oD8A.log changed
+error: Script restart attempt #0
+FTPD listening on port 21
+Express listening on port 80
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: listen EADDRINUSE
+  at errnoException (net.js:905:11)
+  at Server._listen2 (net.js:1043:14)
+  at listen (net.js:1065:10)
+  at Server.listen (net.js:1139:5)
+  at FtpServer.(anonymous function) [as listen] (/mnt/hgfs/dev/ftp/node_modules/ftpd/lib/ftpd.js:171:31)
+  at Object.<anonymous> (/mnt/hgfs/dev/ftp/ftp-service.coffee:61:8)
+  at Object.<anonymous> (/mnt/hgfs/dev/ftp/ftp-service.coffee:1:1)
+  at Module._compile (module.js:456:26)
+
+error: Forever detected script exited with code: 8
+error: Script restart attempt #1
+FTPD listening on port 21
+Express listening on port 80
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: listen EADDRINUSE
+  at errnoException (net.js:905:11)
+  at Server._listen2 (net.js:1043:14)
+  at listen (net.js:1065:10)
+  at Server.listen (net.js:1139:5)
+  at FtpServer.(anonymous function) [as listen] (/mnt/hgfs/dev/ftp/node_modules/ftpd/lib/ftpd.js:171:31)
+  at Object.<anonymous> (/mnt/hgfs/dev/ftp/ftp-service.coffee:61:8)
+  at Object.<anonymous> (/mnt/hgfs/dev/ftp/ftp-service.coffee:1:1)
+  at Module._compile (module.js:456:26)
+
+error: Forever detected script exited with code: 8
+error: restarting script because /mnt/hgfs/dev/ftp/.forever/oD8A.log changed
+error: Script restart attempt #0
+FTP command: TYPE I
+FTPD listening on port 21
+Express listening on port 80
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: listen EADDRINUSE
+  at errnoException (net.js:905:11)
+  at Server._listen2 (net.js:1043:14)
+  at listen (net.js:1065:10)
+  at Server.listen (net.js:1139:5)
+  at FtpServer.(anonymous function) [as listen] (/mnt/hgfs/dev/ftp/node_modules/ftpd/lib/ftpd.js:171:31)
+  at Object.<anonymous> (/mnt/hgfs/dev/ftp/ftp-service.coffee:61:8)
+  at Object.<anonymous> (/mnt/hgfs/dev/ftp/ftp-service.coffee:1:1)
+  at Module._compile (module.js:456:26)
+
+error: Forever detected script exited with code: 8
+error: Script restart attempt #1
+error: restarting script because /mnt/hgfs/dev/ftp/.forever/oD8A.log changed
+error: Forever detected script exited with code: null
+error: Script restart attempt #1
+FTPD listening on port 21
+Express listening on port 80
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: listen EADDRINUSE
+  at errnoException (net.js:905:11)
+  at Server._listen2 (net.js:1043:14)
+  at listen (net.js:1065:10)
+  at Server.listen (net.js:1139:5)
+  at FtpServer.(anonymous function) [as listen] (/mnt/hgfs/dev/ftp/node_modules/ftpd/lib/ftpd.js:171:31)
+  at Object.<anonymous> (/mnt/hgfs/dev/ftp/ftp-service.coffee:61:8)
+  at Object.<anonymous> (/mnt/hgfs/dev/ftp/ftp-service.coffee:1:1)
+  at Module._compile (module.js:456:26)
+
+FTPD listening on port 21
+Express listening on port 80
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: listen EADDRINUSE
+  at errnoException (net.js:905:11)
+  at Server._listen2 (net.js:1043:14)
+  at listen (net.js:1065:10)
+  at Server.listen (net.js:1139:5)
+  at FtpServer.(anonymous function) [as listen] (/mnt/hgfs/dev/ftp/node_modules/ftpd/lib/ftpd.js:171:31)
+  at Object.<anonymous> (/mnt/hgfs/dev/ftp/ftp-service.coffee:61:8)
+  at Object.<anonymous> (/mnt/hgfs/dev/ftp/ftp-service.coffee:1:1)
+  at Module._compile (module.js:456:26)
+
+error: Forever detected script exited with code: 8
+error: restarting script because /mnt/hgfs/dev/ftp/.forever/oD8A.log changed
+error: Script restart attempt #0
+FTPD listening on port 21
+Express listening on port 80
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: listen EADDRINUSE
+  at errnoException (net.js:905:11)
+  at Server._listen2 (net.js:1043:14)
+  at listen (net.js:1065:10)
+  at Server.listen (net.js:1139:5)
+  at FtpServer.(anonymous function) [as listen] (/mnt/hgfs/dev/ftp/node_modules/ftpd/lib/ftpd.js:171:31)
+  at Object.<anonymous> (/mnt/hgfs/dev/ftp/ftp-service.coffee:61:8)
+  at Object.<anonymous> (/mnt/hgfs/dev/ftp/ftp-service.coffee:1:1)
+  at Module._compile (module.js:456:26)
+
+error: Forever detected script exited with code: 8
+error: Script restart attempt #1
+FTPD listening on port 21
+Express listening on port 80
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: listen EADDRINUSE
+  at errnoException (net.js:905:11)
+  at Server._listen2 (net.js:1043:14)
+  at listen (net.js:1065:10)
+  at Server.listen (net.js:1139:5)
+  at FtpServer.(anonymous function) [as listen] (/mnt/hgfs/dev/ftp/node_modules/ftpd/lib/ftpd.js:171:31)
+  at Object.<anonymous> (/mnt/hgfs/dev/ftp/ftp-service.coffee:61:8)
+  at Object.<anonymous> (/mnt/hgfs/dev/ftp/ftp-service.coffee:1:1)
+  at Module._compile (module.js:456:26)
+
+error: Forever detected script exited with code: 8
+error: restarting script because /mnt/hgfs/dev/ftp/.forever/oD8A.log changed
+error: Script restart attempt #0
+FTPD listening on port 21
+Express listening on port 80
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: listen EADDRINUSE
+  at errnoException (net.js:905:11)
+  at Server._listen2 (net.js:1043:14)
+  at listen (net.js:1065:10)
+  at Server.listen (net.js:1139:5)
+  at FtpServer.(anonymous function) [as listen] (/mnt/hgfs/dev/ftp/node_modules/ftpd/lib/ftpd.js:171:31)
+  at Object.<anonymous> (/mnt/hgfs/dev/ftp/ftp-service.coffee:61:8)
+  at Object.<anonymous> (/mnt/hgfs/dev/ftp/ftp-service.coffee:1:1)
+  at Module._compile (module.js:456:26)
+
+error: Forever detected script exited with code: 8
+error: Script restart attempt #1
+FTPD listening on port 21
+Express listening on port 80
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: listen EADDRINUSE
+  at errnoException (net.js:905:11)
+  at Server._listen2 (net.js:1043:14)
+  at listen (net.js:1065:10)
+  at Server.listen (net.js:1139:5)
+  at FtpServer.(anonymous function) [as listen] (/mnt/hgfs/dev/ftp/node_modules/ftpd/lib/ftpd.js:171:31)
+  at Object.<anonymous> (/mnt/hgfs/dev/ftp/ftp-service.coffee:61:8)
+  at Object.<anonymous> (/mnt/hgfs/dev/ftp/ftp-service.coffee:1:1)
+  at Module._compile (module.js:456:26)
+
+error: Forever detected script exited with code: 8
+error: restarting script because /mnt/hgfs/dev/ftp/.forever/oD8A.log changed
+error: Script restart attempt #0
+FTPD listening on port 21
+Express listening on port 80
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: listen EADDRINUSE
+  at errnoException (net.js:905:11)
+  at Server._listen2 (net.js:1043:14)
+  at listen (net.js:1065:10)
+  at Server.listen (net.js:1139:5)
+  at FtpServer.(anonymous function) [as listen] (/mnt/hgfs/dev/ftp/node_modules/ftpd/lib/ftpd.js:171:31)
+  at Object.<anonymous> (/mnt/hgfs/dev/ftp/ftp-service.coffee:61:8)
+  at Object.<anonymous> (/mnt/hgfs/dev/ftp/ftp-service.coffee:1:1)
+  at Module._compile (module.js:456:26)
+
+error: Forever detected script exited with code: 8
+error: Script restart attempt #1
+FTPD listening on port 21
+Express listening on port 80
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: listen EADDRINUSE
+  at errnoException (net.js:905:11)
+  at Server._listen2 (net.js:1043:14)
+  at listen (net.js:1065:10)
+  at Server.listen (net.js:1139:5)
+  at FtpServer.(anonymous function) [as listen] (/mnt/hgfs/dev/ftp/node_modules/ftpd/lib/ftpd.js:171:31)
+  at Object.<anonymous> (/mnt/hgfs/dev/ftp/ftp-service.coffee:61:8)
+  at Object.<anonymous> (/mnt/hgfs/dev/ftp/ftp-service.coffee:1:1)
+  at Module._compile (module.js:456:26)
+
+error: Forever detected script exited with code: 8
+error: restarting script because /mnt/hgfs/dev/ftp/.forever/oD8A.log changed
+error: Script restart attempt #0
+FTPD listening on port 21
+Express listening on port 80
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: listen EADDRINUSE
+  at errnoException (net.js:905:11)
+  at Server._listen2 (net.js:1043:14)
+  at listen (net.js:1065:10)
+  at Server.listen (net.js:1139:5)
+  at FtpServer.(anonymous function) [as listen] (/mnt/hgfs/dev/ftp/node_modules/ftpd/lib/ftpd.js:171:31)
+  at Object.<anonymous> (/mnt/hgfs/dev/ftp/ftp-service.coffee:61:8)
+  at Object.<anonymous> (/mnt/hgfs/dev/ftp/ftp-service.coffee:1:1)
+  at Module._compile (module.js:456:26)
+
+error: Forever detected script exited with code: 8
+error: Script restart attempt #1
+FTPD listening on port 21
+Express listening on port 80
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: listen EADDRINUSE
+  at errnoException (net.js:905:11)
+  at Server._listen2 (net.js:1043:14)
+  at listen (net.js:1065:10)
+  at Server.listen (net.js:1139:5)
+  at FtpServer.(anonymous function) [as listen] (/mnt/hgfs/dev/ftp/node_modules/ftpd/lib/ftpd.js:171:31)
+  at Object.<anonymous> (/mnt/hgfs/dev/ftp/ftp-service.coffee:61:8)
+  at Object.<anonymous> (/mnt/hgfs/dev/ftp/ftp-service.coffee:1:1)
+  at Module._compile (module.js:456:26)
+
+error: Forever detected script exited with code: 8
+error: restarting script because /mnt/hgfs/dev/ftp/.forever/oD8A.log changed
+error: Script restart attempt #0
+FTP command: PWD
+FTPD listening on port 21
+Express listening on port 80
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: listen EADDRINUSE
+  at errnoException (net.js:905:11)
+  at Server._listen2 (net.js:1043:14)
+  at listen (net.js:1065:10)
+  at Server.listen (net.js:1139:5)
+  at FtpServer.(anonymous function) [as listen] (/mnt/hgfs/dev/ftp/node_modules/ftpd/lib/ftpd.js:171:31)
+  at Object.<anonymous> (/mnt/hgfs/dev/ftp/ftp-service.coffee:61:8)
+  at Object.<anonymous> (/mnt/hgfs/dev/ftp/ftp-service.coffee:1:1)
+  at Module._compile (module.js:456:26)
+
+error: Forever detected script exited with code: 8
+error: Script restart attempt #1
+FTPD listening on port 21
+Express listening on port 80
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: listen EADDRINUSE
+  at errnoException (net.js:905:11)
+  at Server._listen2 (net.js:1043:14)
+  at listen (net.js:1065:10)
+  at Server.listen (net.js:1139:5)
+  at FtpServer.(anonymous function) [as listen] (/mnt/hgfs/dev/ftp/node_modules/ftpd/lib/ftpd.js:171:31)
+  at Object.<anonymous> (/mnt/hgfs/dev/ftp/ftp-service.coffee:61:8)
+  at Object.<anonymous> (/mnt/hgfs/dev/ftp/ftp-service.coffee:1:1)
+  at Module._compile (module.js:456:26)
+
+error: Forever detected script exited with code: 8

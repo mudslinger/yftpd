@@ -1,0 +1,12 @@
+
+fs.js:439
+  return binding.open(pathModule._makeLong(path), stringToFlags(flags), mode);
+                 ^
+Error: EACCES, permission denied '/home/tanaka/.forever/pids/hVdQ.pid'
+    at Object.fs.openSync (fs.js:439:18)
+    at Object.fs.writeFileSync (fs.js:978:15)
+    at writePid (/mnt/hgfs/dev/ftp/node_modules/forever/bin/monitor:13:6)
+    at null.<anonymous> (/mnt/hgfs/dev/ftp/node_modules/forever/bin/monitor:46:5)
+    at EventEmitter.emit (/mnt/hgfs/dev/ftp/node_modules/forever/node_modules/forever-monitor/node_modules/broadway/node_modules/eventemitter2/lib/eventemitter2.js:339:22)
+    at /mnt/hgfs/dev/ftp/node_modules/forever/node_modules/forever-monitor/lib/forever-monitor/monitor.js:172:10
+    at process._tickCallback (node.js:442:13)
