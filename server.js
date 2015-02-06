@@ -1,13 +1,22 @@
-forever = require('forever');
+var forever = require('forever');
+var express = require('express');
+
+var app = express();
+app.set('port', 80);
+app.get('/',function(req, res){
+  res.send("express is running.");
+});
+app.listen(80);
+console.log('Express listening on port 80');
+
 forever.start(
-  './ftp-service.coffee',
+  '/srv/www/yftp/current/ftp-service.coffee',
   {
-    //uid: 'root',
-    cwd: '/srv/www/yftp/current',
-    command: './node_modules/.bin/coffee',
+    uid: 'root',
+    command: '/srv/www/yftp/current/node_modules/.bin/coffee',
     spawnWith: {
-      uid: 0, // Custom UID
-      gid: 0  // Custom GID
+      uid: 'root', // Custom UID
+      gid: 'root'  // Custom GID
     }
   }
 );
