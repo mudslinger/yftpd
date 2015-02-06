@@ -2,6 +2,7 @@ forever = require('forever');
 forever.start(
   './ftp-service.coffee',
   {
+    uid: 'root',
     command: './node_modules/.bin/coffee',
     spawnWith: {
       customFds: [-1, -1, -1], // that forever spawns.
