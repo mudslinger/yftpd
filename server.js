@@ -15,8 +15,8 @@ forever.start(
     uid: 'root',
     command: '/srv/www/yftp/current/node_modules/.bin/coffee',
     spawnWith: {
-      uid: 'root', // Custom UID
-      gid: 'root'  // Custom GID
+      uid: 0, // Custom UID
+      gid: 0  // Custom GID
     }
   }
 );
