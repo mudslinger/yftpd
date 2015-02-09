@@ -13,6 +13,9 @@ forever.start(
   'ftp-service.js',
   {
     uid: 'root',
+    logFile: './log.log'
+    outFile: './stdout.log', // Path to log output from child stdout
+    errFile: './stderr.log', // Path to log output from child stderr
     spawnWith: {
       uid: 0, // Custom UID
       gid: 0  // Custom GID
