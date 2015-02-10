@@ -21,3 +21,7 @@ forever.start(
     }
   }
 );
+
+process.on('exit', function(code) {
+  forever.stopAll(true);
+});
