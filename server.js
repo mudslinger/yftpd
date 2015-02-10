@@ -1,5 +1,8 @@
+require('coffee-script/register');
 var forever = require('forever');
 var express = require('express');
+
+var cron = require('./cron.coffee');
 
 var app = express();
 app.set('port', 80);
@@ -8,7 +11,8 @@ app.get('/',function(req, res){
 });
 app.listen(80);
 console.log('Express listening on port 80');
-
+cron.start();
+console.log('Cron service started.');
 forever.start(
   'ftp-service.js',
   {
@@ -25,3 +29,4 @@ forever.start(
 process.on('exit', function(code) {
   forever.stopAll(true);
 });
+
