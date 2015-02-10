@@ -11,20 +11,22 @@ app.get('/',function(req, res){
 });
 app.listen(80);
 console.log('Express listening on port 80');
-cron.start();
-console.log('Cron service started.');
+
 forever.start(
   'ftp-service.js',
   {
     uid: 'root',
-    outFile: '/srv/www/yftp/current/log/stdout.log',
-    errFile: '/srv/www/yftp/current/log/stderr.log',
+    outFile: "/srv/www/yftp/current/log/stdout_#{process.pid}.log",
+    errFile: "/srv/www/yftp/current/log/stderr_#{process.pid}.log",
     spawnWith: {
       uid: 0, // Custom UID
       gid: 0  // Custom GID
     }
   }
 );
+
+cron.start();
+console.log('Cron service started.');
 
 process.on('exit', function(code) {
   forever.stopAll(true);
