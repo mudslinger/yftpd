@@ -7,9 +7,9 @@ delious_master = ->
   dm.load (data)->
     console.log data
 
-module.exports = job = new CronJob
+module.exports = new CronJob
   cronTime: "*/10 * * * * *"
   onTick: ->
     delious_master()
     return
-  start: false
+  start: true
