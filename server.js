@@ -2,7 +2,7 @@ require('coffee-script/register');
 var forever = require('forever');
 var express = require('express');
 
-var cron = require('./cron.coffee');
+//var cron = require('./cron.coffee');
 
 var app = express();
 app.set('port', 80);
