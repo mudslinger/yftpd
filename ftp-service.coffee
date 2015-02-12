@@ -43,11 +43,11 @@ server.on 'client:connected',(conn)->
       # s3.putObject
       #   Key: key + '/'
       #   Body: null
-        (err,data)->
-          unless err
-            success(username,getUserFS(key))
-          else
-            failure()
+      (err,data)->
+        unless err
+          success(username,getUserFS(key))
+        else
+          failure()
     else
       failure()
 
