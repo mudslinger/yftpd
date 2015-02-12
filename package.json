@@ -20,6 +20,7 @@
     "forever-monitor": "~1.5.2",
     "xml2js": "~0.4.4",
     "cheerio-httpcli": "~0.3.0",
-    "cron": "~1.0.6"
+    "cron": "~1.0.6",
+    "sleep-async": "~1.0.1"
   }
 }

@@ -1,4 +1,4 @@
-zlib = require 'zlib'
+# zlib = require 'zlib'
 module.exports = class S3fs
   s3: null
   chroot : ''
@@ -88,16 +88,13 @@ module.exports = class S3fs
             callback err,data
   writeFile: (path, data, callback)->
     path = @pathman(path)
-    zlib.gzip data,(err,bin)=>
-      if bin
-        @s3.putObject
-          ACL: 'public-read'
-          Key: path
-          Body: bin
-          ContentEncoding: 'gzip'
-          ContentType: 'text/csv'
-          (err,data)->
-            callback err,data
+    @s3.putObject
+      ACL: 'public-read'
+      Key: path
+      Body: data
+      ContentType: 'text/csv'
+      (err,data)->
+        callback err,data
   readFile: (path,callback)->
     path = @pathman(path)
     @exists path,(exists)=>
