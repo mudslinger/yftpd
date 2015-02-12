@@ -1,4 +1,4 @@
-# zlib = require 'zlib'
+zlib = require 'zlib'
 module.exports = class S3fs
   s3: null
   chroot : ''
