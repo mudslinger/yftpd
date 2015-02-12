@@ -40,16 +40,14 @@ server.on 'client:connected',(conn)->
   conn.on 'command:pass' ,(pass,success,failure)->
     if pass == ftppasswd
       key = "#{username}/#{moment().year()}"
-      success(username,getUserFS(key))
-
-      # s3.putObject
-      #   Key: key + '/'
-      #   Body: null
-      #   (err,data)->
-      #     unless err
-      #       success(username,getUserFS(key))
-      #     else
-      #       failure()
+      s3.putObject
+        Key: key + '/'
+        Body: null
+        (err,data)->
+          unless err
+            success(username,getUserFS(key))
+          else
+            failure()
     else
       failure()
 
