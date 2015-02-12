@@ -63,15 +63,17 @@ module.exports = class S3fs
     console.log path
     path = @pathmand(path)
     console.log path
-    @s3.listObjects
-      Prefix: path
-      (err,data)->
-        if data
-          contents = data.Contents
-          files = (item.Key.replace(path,'') for item in contents when item.Key != path)
-          callback(err,files)
-        else
-          callback null,[]
+    @exists path,(exists)=>
+      if exists
+        @s3.listObjects
+          Prefix: path
+          (err,data)->
+            if data
+              contents = data.Contents
+              files = (item.Key.replace(path,'') for item in contents when item.Key != path)
+              callback(err,files)
+      else
+        callback null,[]
   mkdir: (path,permission=777, callback)->
     console.log 'mkdir:'
     path = @pathmand(path)
