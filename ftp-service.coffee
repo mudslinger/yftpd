@@ -2,7 +2,6 @@ ftpd = require 'ftpd'
 moment = require 'moment'
 AWS = require 'aws-sdk'
 
-#Iconv  = require('iconv').Iconv
 AWS.config.update
   accessKeyId: process.env.accessKeyId
   secretAccessKey: process.env.secretAccessKey
@@ -41,9 +40,9 @@ server.on 'client:connected',(conn)->
   conn.on 'command:pass' ,(pass,success,failure)->
     if pass == ftppasswd
       key = "#{username}/#{moment().year()}"
-      s3.putObject
-        Key: key + '/'
-        Body: null
+      # s3.putObject
+      #   Key: key + '/'
+      #   Body: null
         (err,data)->
           unless err
             success(username,getUserFS(key))
